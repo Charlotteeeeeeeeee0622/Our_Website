@@ -1,8 +1,17 @@
+html {
+	background-image: url('rnbqkbnrpppppppp8888PPPPPPPPRNBQKBNR.png');
+  /* background-color: black; */
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
 .scoreboard {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+    opacity: 0.8;
   }
   
   .score-section {
